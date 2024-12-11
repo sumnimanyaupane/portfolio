@@ -1,0 +1,54 @@
+
+.contact-section {
+    padding: 4rem 2rem;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .contact-container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .contact-container h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-description {
+    color: #b3b3b3;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .contact-info {
+    display: flex;
+    justify-content: space-around;
+    background-color: #fff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    color: #000;
+  }
+  
+  .contact-item {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .contact-item h3 {
+    font-size: 1.1rem;
+    margin: 0.5rem 0;
+  }
+  
+  .contact-item p {
+    font-size: 0.9rem;
+    margin: 0;
+  }
+  
+  .icon {
+    font-size: 2rem;
+    color: #3498db; /* Adjust icon color as per preference */
+    margin-bottom: 0.5rem;
+  }
+  
